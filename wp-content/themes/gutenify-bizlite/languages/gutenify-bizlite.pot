@@ -1,0 +1,1099 @@
+# Copyright (c) 2024 CodeYatri. All Rights Reserved.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gutenify Bizlite 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/gutenify-bizlite\n"
+"Last-Translator: inf@codeyatri.com\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-15T06:14:17+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: gutenify-bizlite\n"
+
+#. Theme Name of the theme
+#: inc/core/block-patterns.php:20
+#: inc/core/theme-info.php:6
+msgid "Gutenify Bizlite"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://gutenify.com/themes/gutenify-bizlite"
+msgstr ""
+
+#. Description of the theme
+msgid "Gutenify Bizlite is modern block-based theme where you can build your own unique looking website by using WordPress Blocks Editor. Gutenify Bizlite is a multipurpose block based free theme, the theme is built in accordance of Full Site Editing features introduced in WordPress 5.9, which means that all the aspects including colors, typography, and the layout of every single page on your site can be customized to suit your need.The true efficiency of Gutenify Bizlite Theme lies in its customizability with combination of Gutenify Plugin. With Gutenify Plugin you can create different customized template, you can also use its in-built template kits and then further customize them according to your needs. Furthermore, using different blocks in combination of Gutenify Plugin’s solid additional blocks, each website will garner an exhibit look. With strong typography, and simple design, we want to achieve unique look for every website. Gutenify Plugin offers a wide variety of flexible and easy to use blocks which will make your website in combination with truly unique spectacle. You can create. A single-page website, a blog, a Bizlite website, a portfolio, a construction site, or an bizlite site, Gutenify Corporate with Gutenify Plugin will help you create something unique which you can truly call yours.Official Support Forum: https://gutenify.com/contact/"
+msgstr ""
+
+#. Author of the theme
+msgid "Codeyatri"
+msgstr ""
+
+#. Author URI of the theme
+#: patterns/footer-default.php:152
+msgid "https://gutenify.com"
+msgstr ""
+
+#: inc/core/templates/admin-plugin-notice.php:22
+msgid "Hey, Thank you for installing "
+msgstr ""
+
+#: inc/core/templates/admin-plugin-notice.php:22
+msgid "Theme!"
+msgstr ""
+
+#: inc/core/templates/admin-plugin-notice.php:23
+msgid "We recommend installing plugin: "
+msgstr ""
+
+#: inc/core/templates/admin-plugin-notice.php:23
+#: inc/core/templates/admin-plugin-notice.php:24
+#: patterns/footer-default.php:152
+msgid "Gutenify"
+msgstr ""
+
+#: inc/core/templates/admin-plugin-notice.php:24
+msgid "provides multiple site demo and add advance features to your site."
+msgstr ""
+
+#: inc/core/templates/admin-plugin-notice.php:25
+msgid "Get Site Demo"
+msgstr ""
+
+#: inc/core/templates/admin-plugin-notice.php:26
+msgid "Learn more about Gutenify"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:13
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:21
+#: inc/core/templates/theme-info.php:252
+#: inc/core/templates/theme-info.php:314
+msgid "Site Demo"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:24
+#: inc/core/templates/theme-info.php:27
+msgid "Import Site Demo"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:30
+#: inc/core/templates/theme-info.php:102
+#: inc/core/templates/theme-info.php:317
+msgid "https://gutenify.com/pricing"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:31
+#: inc/core/templates/theme-info.php:318
+msgid "Get Gutenify Pro"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:33
+#: inc/core/templates/theme-info.php:320
+msgid "https://gutenify.com/documentations/"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:34
+#: inc/core/templates/theme-info.php:322
+msgid "Documentations"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:40
+msgid "Gutenify Site Demo"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:41
+msgid ""
+"Gutenify has pre-built site demos for your site which will give your\n"
+"                                                website a base structure."
+msgstr ""
+
+#: inc/core/templates/theme-info.php:46
+msgid "Learn about site demo"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:50
+#: inc/core/templates/theme-info.php:55
+msgid "Browse Site Demo"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:62
+msgid "Import Patterns"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:63
+msgid ""
+"From Edit screen of page/post, you can easily import Beautiful\n"
+"                                                Patterns"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:68
+msgid ""
+"Learn about\n"
+"                                                                Patterns"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:72
+msgid "Create page to add pattern"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:79
+msgid "To add fresh block follow below steps"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:82
+msgid ""
+"At the top left corner of the\n"
+"                                                        page/post edit\n"
+"                                                        Screen, click on Sign"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:86
+msgid ""
+"Type Block name in search bar, if\n"
+"                                                        you already know\n"
+"                                                        the block name."
+msgstr ""
+
+#: inc/core/templates/theme-info.php:90
+msgid ""
+"OR Scroll down and navigate to\n"
+"                                                        Gutenify section and\n"
+"                                                        Add New Block."
+msgstr ""
+
+#: inc/core/templates/theme-info.php:100
+msgid "Compare Free Vs Pro"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:102
+msgid "Checkout all features"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:107
+msgid "Features"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:110
+msgid "Free Gutenify Theme"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:113
+msgid "Gutenify Pro Plugin"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:120
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:127
+msgid "Painless Setup"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:134
+#: inc/core/templates/theme-info.php:261
+msgid "Color Options"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:141
+msgid "Premium site demos"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:148
+msgid "Multiple Block Layout"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:155
+msgid "Premium Patterns"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:162
+msgid "Multiple Fonts"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:169
+msgid "Slider Block "
+msgstr ""
+
+#: inc/core/templates/theme-info.php:176
+msgid "Post Listing Block"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:183
+msgid "WooCommerce Filter Block"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:190
+msgid "Gallery Block"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:197
+msgid "Star Rating Block"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:204
+msgid "Icon Block"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:211
+msgid "Post Carousel Block"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:218
+msgid "Google Map Block"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:225
+msgid "Testimonials Block"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:232
+msgid "Team Block"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:245
+msgid "gutenify Core Features"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:249
+msgid ""
+"Global page settings(typography,\n"
+"                                                        color, ...)"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:254
+msgid "Predefined sections"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:256
+msgid "Fully Responsive"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:258
+msgid "Highly customizable row columns"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:263
+msgid "Device specific responsive controls"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:266
+msgid "Google fonts"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:268
+msgid ""
+"Classic &amp; gradient color and\n"
+"                                                        background"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:271
+msgid "Box-shadow"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:273
+msgid "Border"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:275
+msgid "Advanced Typography"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:277
+msgid "Font Awesome 4 icon picker"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:279
+msgid "&amp; More..."
+msgstr ""
+
+#: inc/core/templates/theme-info.php:290
+msgid "Love our product?"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:292
+msgid ""
+"Motivate us by\n"
+"                                                giving 5 star on\n"
+"                                                our profile."
+msgstr ""
+
+#: inc/core/templates/theme-info.php:297
+msgid "Rate Us"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:300
+msgid ""
+"Still have question?\n"
+"                                                Ask Us, now!"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:303
+msgid "We are always ready with all fix issues you stuck to ensure smoothly works with gutenify"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:303
+msgid "https://gutenify.com/contact/"
+msgstr ""
+
+#: inc/core/templates/theme-info.php:304
+msgid "Get Support"
+msgstr ""
+
+#: inc/core/theme-info.php:6
+msgid "Gutenify Theme"
+msgstr ""
+
+#: patterns/call-to-action.php
+msgctxt "Pattern title"
+msgid "Call To Action"
+msgstr ""
+
+#: patterns/call-to-action.php:13
+msgid "With Respect To Each Customer"
+msgstr ""
+
+#: patterns/call-to-action.php:17
+msgid "We Appreciate Clients"
+msgstr ""
+
+#: patterns/call-to-action.php:22
+msgid "And Their Business"
+msgstr ""
+
+#: patterns/call-to-action.php:28
+msgid "Become A Client"
+msgstr ""
+
+#: patterns/cover-with-archive-title.php
+msgctxt "Pattern title"
+msgid "Cover With Archive title"
+msgstr ""
+
+#: patterns/cover-with-post-title.php
+msgctxt "Pattern title"
+msgid "Cover With Post title"
+msgstr ""
+
+#: patterns/feature-banner.php
+msgctxt "Pattern title"
+msgid "Feature Banner"
+msgstr ""
+
+#: patterns/feature-banner.php:12
+msgid "Creative Agency"
+msgstr ""
+
+#: patterns/feature-banner.php:16
+msgid "the Best Solutions For Your Business"
+msgstr ""
+
+#: patterns/feature-banner.php:21
+msgid "We are a global branding agency helping companies to communicate through vision and imagination."
+msgstr ""
+
+#: patterns/feature-banner.php:27
+msgid "Get Started"
+msgstr ""
+
+#: patterns/feature-banner.php:31
+#: patterns/footer-default.php:38
+#: patterns/footer-default.php:72
+msgid "About Us"
+msgstr ""
+
+#: patterns/features.php
+msgctxt "Pattern title"
+msgid "Features"
+msgstr ""
+
+#: patterns/features.php:21
+msgid "Strategy Work"
+msgstr ""
+
+#: patterns/features.php:25
+#: patterns/features.php:51
+#: patterns/features.php:77
+#: patterns/features.php:103
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing"
+msgstr ""
+
+#: patterns/features.php:29
+#: patterns/features.php:55
+#: patterns/features.php:81
+#: patterns/features.php:107
+#: patterns/service.php:60
+#: patterns/service.php:90
+#: patterns/service.php:120
+#: patterns/service.php:152
+#: patterns/service.php:182
+#: patterns/service.php:212
+msgid "Read More"
+msgstr ""
+
+#: patterns/features.php:47
+msgid "Pricing Function"
+msgstr ""
+
+#: patterns/features.php:73
+msgid "Management Team"
+msgstr ""
+
+#: patterns/features.php:99
+msgid "Full Optimization"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:14
+msgid "Newsletter"
+msgstr ""
+
+#: patterns/footer-default.php:19
+msgid "Install MailChimp Plugin and Create New Form and  Drop Mailchimp Block"
+msgstr ""
+
+#: patterns/footer-default.php:24
+msgid "Subscribe Now"
+msgstr ""
+
+#: patterns/footer-default.php:32
+msgid "Use Full Links"
+msgstr ""
+
+#: patterns/footer-default.php:42
+#: patterns/footer-default.php:76
+msgid "Store"
+msgstr ""
+
+#: patterns/footer-default.php:46
+#: patterns/footer-default.php:80
+msgid "Company Info"
+msgstr ""
+
+#: patterns/footer-default.php:50
+#: patterns/footer-default.php:84
+msgid "Legdel"
+msgstr ""
+
+#: patterns/footer-default.php:54
+#: patterns/footer-default.php:88
+msgid "Our Mission"
+msgstr ""
+
+#: patterns/footer-default.php:58
+#: patterns/footer-default.php:92
+msgid "Our Vision"
+msgstr ""
+
+#: patterns/footer-default.php:66
+#: patterns/hero-section.php:27
+msgid "About Company"
+msgstr ""
+
+#: patterns/footer-default.php:100
+msgid "Quick Contact"
+msgstr ""
+
+#: patterns/footer-default.php:111
+msgid "New South Wales, Australia&nbsp;"
+msgstr ""
+
+#: patterns/footer-default.php:121
+msgid "support@gutenify.com"
+msgstr ""
+
+#: patterns/footer-default.php:131
+msgid "981-2334-5679"
+msgstr ""
+
+#: patterns/footer-default.php:141
+#: patterns/header-default.php:48
+msgid "10 AM - 5 PM"
+msgstr ""
+
+#: patterns/footer-default.php:152
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer-default.php:152
+msgid "and"
+msgstr ""
+
+#: patterns/footer-default.php:152
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer-default.php:152
+msgid "WordPress."
+msgstr ""
+
+#: patterns/footer-default.php:157
+msgid "Follow Us :"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:18
+msgid "New South Wales, Australia"
+msgstr ""
+
+#: patterns/header-default.php:28
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/header-default.php:38
+msgid "987-065-40321"
+msgstr ""
+
+#: patterns/header-default.php:80
+msgid "Get A quote"
+msgstr ""
+
+#: patterns/hero-section.php
+msgctxt "Pattern title"
+msgid "Hero Section"
+msgstr ""
+
+#: patterns/hero-section.php:33
+msgid "Build a Better Future"
+msgstr ""
+
+#: patterns/hero-section.php:33
+msgid "for Your Company"
+msgstr ""
+
+#: patterns/hero-section.php:37
+msgid "We craft premium digital work for web, mobile and experiential with creative agencies and global brands alike – putting passion."
+msgstr ""
+
+#: patterns/hero-section.php:43
+msgid "Marketing Strategy"
+msgstr ""
+
+#: patterns/hero-section.php:47
+msgid "Rebranding"
+msgstr ""
+
+#: patterns/hero-section.php:53
+msgid "Unique Production"
+msgstr ""
+
+#: patterns/hero-section.php:57
+msgid "Corporate Identity"
+msgstr ""
+
+#: patterns/hero-section.php:64
+msgid "Explore More"
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr ""
+
+#: patterns/hidden-404.php:14
+msgid "4"
+msgstr ""
+
+#: patterns/hidden-404.php:14
+msgid "0"
+msgstr ""
+
+#: patterns/hidden-404.php:19
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:17
+#: patterns/portfoio.php:16
+#: patterns/service.php:16
+msgid "."
+msgstr ""
+
+#: patterns/latest-news.php:17
+#: patterns/latest-news.php:23
+msgid "From Our Blog Posts"
+msgstr ""
+
+#: patterns/latest-news.php:30
+#: patterns/portfoio.php:29
+#: patterns/service.php:29
+msgid "Nemo enim ipsam voluptatem quia voluptas sit odit aut fugit, sed quia."
+msgstr ""
+
+#: patterns/portfoio.php
+msgctxt "Pattern title"
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/portfoio.php:16
+msgid "SELECTED PROJECTS"
+msgstr ""
+
+#: patterns/portfoio.php:22
+msgid "Featured Works"
+msgstr ""
+
+#: patterns/portfoio.php:42
+msgid "0.1"
+msgstr ""
+
+#: patterns/portfoio.php:48
+msgid "Consulting To Uplift The Market Value"
+msgstr ""
+
+#: patterns/portfoio.php:63
+#: patterns/portfoio.php:99
+#: patterns/portfoio.php:135
+msgid "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: patterns/portfoio.php:67
+#: patterns/portfoio.php:103
+#: patterns/portfoio.php:139
+msgid "View Project"
+msgstr ""
+
+#: patterns/portfoio.php:78
+msgid "0.2"
+msgstr ""
+
+#: patterns/portfoio.php:84
+msgid "Planning To Implement Business Ideas"
+msgstr ""
+
+#: patterns/portfoio.php:114
+msgid "0.3"
+msgstr ""
+
+#: patterns/portfoio.php:120
+msgid "Implementation Of Daily Activities &amp; Plans"
+msgstr ""
+
+#: patterns/portfoio.php:158
+msgid "Years of Experience"
+msgstr ""
+
+#: patterns/portfoio.php:166
+msgid "4k"
+msgstr ""
+
+#: patterns/portfoio.php:170
+msgid "Projects Completed"
+msgstr ""
+
+#: patterns/portfoio.php:182
+msgid "9k"
+msgstr ""
+
+#: patterns/portfoio.php:186
+msgid "Happy Customers"
+msgstr ""
+
+#: patterns/portfoio.php:194
+msgid "12"
+msgstr ""
+
+#: patterns/portfoio.php:198
+msgid "Awards Winning"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:34
+msgid "Categorise"
+msgstr ""
+
+#: patterns/primary-sidebar.php:52
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:70
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:88
+msgid "Social Links"
+msgstr ""
+
+#: patterns/service-page.php
+msgctxt "Pattern title"
+msgid "Service Page"
+msgstr ""
+
+#: patterns/service.php
+msgctxt "Pattern title"
+msgid "Service"
+msgstr ""
+
+#: patterns/service.php:16
+msgid "FEATURED SERVICES "
+msgstr ""
+
+#: patterns/service.php:22
+msgid "Our Services"
+msgstr ""
+
+#: patterns/service.php:47
+msgid "Product Design"
+msgstr ""
+
+#: patterns/service.php:51
+msgid "Digital Product Design"
+msgstr ""
+
+#: patterns/service.php:56
+#: patterns/service.php:86
+#: patterns/service.php:116
+#: patterns/service.php:148
+#: patterns/service.php:178
+#: patterns/service.php:208
+msgid "Creating a higher spacing and how people move through a unique."
+msgstr ""
+
+#: patterns/service.php:77
+msgid "Customs Services"
+msgstr ""
+
+#: patterns/service.php:81
+msgid "Branding &amp; Design"
+msgstr ""
+
+#: patterns/service.php:107
+msgid "Product Development"
+msgstr ""
+
+#: patterns/service.php:111
+msgid "Web Development"
+msgstr ""
+
+#: patterns/service.php:143
+msgid "Social Media"
+msgstr ""
+
+#: patterns/service.php:173
+msgid "Digital Strategy"
+msgstr ""
+
+#: patterns/service.php:203
+msgid "Diverse Approach"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Style variation name"
+msgid "Light Scheme"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Secondary Background"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Text Link"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Border"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Input Field"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Boulder"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "coffee"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Cyan"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Dark Blue"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Sky Blue"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Dark Green"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Lite Green"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Purple"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Dark Purple"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Orange"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Lite Red"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Hexadecimal"
+msgstr ""
+
+#: styles/light.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Pink"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font family name"
+msgid "Roboto Sans Serif"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font family name"
+msgid "Poppins Sans Serif"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font family name"
+msgid "Sen Sans Serif"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font size name"
+msgid "Section Title"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: styles/light.json
+msgctxt "Font size name"
+msgid "Colossal"
+msgstr ""
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow Scheme"
+msgstr ""
