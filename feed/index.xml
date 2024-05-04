@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ims Website</title>
+	<atom:link href="https://hassaan09.github.io/demo-ims/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hassaan09.github.io/demo-ims</link>
+	<description></description>
+	<lastBuildDate>Tue, 30 Apr 2024 13:43:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://hassaan09.github.io/demo-ims/wp-content/uploads/2024/04/ims-logo-new-2-1.png</url>
+	<title>Ims Website</title>
+	<link>https://hassaan09.github.io/demo-ims</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>10 Best Practices of Interface Management</title>
+		<link>https://hassaan09.github.io/demo-ims/2024/04/30/10-best-practices-of-interface-management/</link>
+					<comments>https://hassaan09.github.io/demo-ims/2024/04/30/10-best-practices-of-interface-management/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 13:43:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://hassaan09.github.io/demo-ims/?p=372</guid>
+
+					<description><![CDATA[During my career, I’ve helped implement interface management on numerous projects, and some of them [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="gutenify-section-7f85ab10-06f7-11ef-909d-d1395ac044fd">During my career, I’ve helped implement interface management on numerous projects, and some of them have been the largest projects in the world.&nbsp; With each of these projects, I’ve worked with some exceptional teams and witnessed incredible feats of progress, but one project has always stood out as one of the best implementations and executions of&nbsp;<a href="https://www.ascertra.com/blog/interface-management" rel="noreferrer noopener" target="_blank">interface management</a>&nbsp;I’ve ever seen. Not only did this project excel at interface management execution, but it may also have been one of the company’s most successful projects. The project met all the company’s goals and, even though it encountered many major hurdles along the way, interface management helped the project stay on track and deliver on schedule. Which is almost unheard of on major projects!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hassaan09.github.io/demo-ims/2024/04/30/10-best-practices-of-interface-management/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
